@@ -1,0 +1,3 @@
+[submodule "rebase"]
+	path = rebase
+	url = https://github.com/git-up/test-repo-submodules.git
