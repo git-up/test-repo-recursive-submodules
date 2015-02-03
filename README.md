@@ -1,1 +1,1 @@
-# test-repo-recursive-submodules
+A test repository that uses submodules which themselves use submodules
